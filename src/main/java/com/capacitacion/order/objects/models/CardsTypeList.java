@@ -13,4 +13,6 @@ public class CardsTypeList {
 	public void setBrandCardsTypeFilter(List<BrandCardsTypeFilter> brandCardsTypeFilter) {
 		this.brandCardsTypeFilter = brandCardsTypeFilter;
 	}
+	
+	
 }
